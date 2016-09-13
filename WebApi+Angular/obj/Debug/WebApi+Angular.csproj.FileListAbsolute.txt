@@ -1,0 +1,209 @@
+D:\Work\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll.config
+D:\Work\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.pdb
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Antlr3.Runtime.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\EntityFramework.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Spatial.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Optimization.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Providers.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\WebGrease.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.pdb
+D:\Work\WebApi+Angular\WebApi+Angular\bin\EntityFramework.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\System.Spatial.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\de\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\es\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\fr\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\it\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ja\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ko\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\ru\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hans\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\zh-Hant\System.Spatial.resources.dll
+D:\Work\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.csprojResolveAssemblyReference.cache
+D:\Work\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.dll
+D:\Work\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.pdb
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll.config
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.pdb
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Antlr3.Runtime.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\EntityFramework.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Spatial.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Optimization.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Providers.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\WebGrease.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.pdb
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\EntityFramework.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\System.Spatial.xml
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\de\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\es\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\fr\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\it\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ja\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ko\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\ru\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hans\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\bin\zh-Hant\System.Spatial.resources.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.csprojResolveAssemblyReference.cache
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.dll
+D:\Work\Reserve Copy\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.pdb
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll.config
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\WebApi+Angular.pdb
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Antlr3.Runtime.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\EntityFramework.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Spatial.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Optimization.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Providers.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\WebGrease.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\FileManagerLib.pdb
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\EntityFramework.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Newtonsoft.Json.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Helpers.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Mvc.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Razor.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.WebPages.Razor.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.Tracing.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Web.Http.OData.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.Edm.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Microsoft.Data.OData.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\System.Spatial.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\de\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\es\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\it\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\de\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\es\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\fr\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\it\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ja\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ko\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\ru\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hans\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\zh-Hant\System.Spatial.resources.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.csprojResolveAssemblyReference.cache
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\obj\Debug\WebApi+Angular.pdb
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Autofac.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Autofac.Integration.WebApi.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Autofac.xml
+D:\Work\Reserve Copy — копия\WebApi+Angular\WebApi+Angular\bin\Autofac.Integration.WebApi.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Autofac.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Autofac.Integration.WebApi.dll
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Autofac.xml
+D:\Work\WebApi+Angular\WebApi+Angular\bin\Autofac.Integration.WebApi.xml

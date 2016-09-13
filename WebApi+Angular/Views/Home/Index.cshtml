@@ -1,0 +1,27 @@
+﻿<div class="container" ng-controller="countCtrl">
+    <table class="table text-center" ng-cloak>
+        <thead>
+            <tr>
+                <th class="text-center">Less 10 Mb</th>
+                <th class="text-center">10 Mb - 50 Mb</th>
+                <th class="text-center">More 100 Mb</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{countModel.CountLessThan10Mb}}</td>
+                <td>{{countModel.CountBetween10MbAnd50Mb}}</td>
+                <td>{{countModel.CountMoreThan100Mb}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="panel" ng-cloak>
+        <h3><strong>Current path:&nbsp;</strong><span class="text-lowercase">{{countModel.CurrentPath}}</span></h3>
+        <a href="#" ng-click="getCount($event)">_</a>
+    </div>
+    <div class="panel" ng-cloak>
+        <div ng-repeat="directory in countModel.DirectoryName">
+            <a href="#" ng-click="getCount($event)">{{directory}}</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+D:\Work\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.dll
+D:\Work\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.pdb
+D:\Work\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.dll
+D:\Work\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.pdb
+D:\Work\Reserve Copy\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.dll
+D:\Work\Reserve Copy\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.pdb
+D:\Work\Reserve Copy\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.dll
+D:\Work\Reserve Copy\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.pdb
+D:\Work\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.csprojResolveAssemblyReference.cache
+D:\Work\Reserve Copy — копия\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\FileManagerLib\bin\Debug\FileManagerLib.pdb
+D:\Work\Reserve Copy — копия\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.dll
+D:\Work\Reserve Copy — копия\WebApi+Angular\FileManagerLib\obj\Debug\FileManagerLib.pdb

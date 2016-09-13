@@ -1,0 +1,23 @@
+﻿body {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+table thead tr{
+    background-color: darkgray;
+    color:white;
+}
+
+table tbody tr td{
+    border: 2px solid darkgray;
+    font-size: larger;
+}
+
+a{
+    color:steelblue !important;
+}
+
+span{
+    color: darkgray;
+}
+
+
